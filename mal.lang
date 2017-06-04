@@ -23,7 +23,7 @@
 <!--
 	Somewhat copied and pasted from nasm.lang
 -->
-<language id="mal" _name="MAL" version="2.0" _section="Others">
+<language id="mal" _name="Assembler (MIPS)" version="2.0" _section="Others">
     <metadata>
       <property name="mimetypes">text/mal</property>
       <property name="globs">*.a;*.s;*.asm</property>
